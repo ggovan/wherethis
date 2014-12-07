@@ -2,8 +2,8 @@
   "name": "wherethis",
   "title": "wherethis",
   "id": "jid1-ZFbc2eN4AxAF9A",
-  "description": "a basic add-on",
+  "description": "Wondering where things are, Where This will point them out on a map for you.",
   "author": "",
-  "license": "MPL 2.0",
+  "license": "GPL 2.0",
   "version": "0.1"
 }
